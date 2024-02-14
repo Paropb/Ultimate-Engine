@@ -1,0 +1,18 @@
+{
+    "name": "UltimateEngine.Editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:3c11501236c11da4c80f4ca95641b51a"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
